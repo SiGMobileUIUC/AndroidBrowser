@@ -1,7 +1,7 @@
 # AndroidBrowser
 ![alt tag](https://www-s.acm.illinois.edu/sigmobile/sig_mobile-01.png)
 
-Tutorial for SiGMobile to create a functional Android browser with Javascript and HTML.
+Tutorial for SiGMobile to create a functional Android browser with Javascript and HTML enabled.
 
 This tutorial will run you through learning the tools you need to create a browser application with a URL navigator
 
